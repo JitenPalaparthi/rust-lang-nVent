@@ -1,0 +1,7 @@
+[package]
+name = "myshapes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+shapes-lib = { path= "../shapes-lib"}
