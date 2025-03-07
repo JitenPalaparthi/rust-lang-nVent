@@ -1,0 +1,1 @@
+/Users/jiten/workspace/training/rust-examples/c_in_rust/target/debug/c_in_rust: /Users/jiten/workspace/training/rust-examples/c_in_rust/build.rs /Users/jiten/workspace/training/rust-examples/c_in_rust/src/main.rs
